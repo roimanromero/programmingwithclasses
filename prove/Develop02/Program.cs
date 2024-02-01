@@ -143,7 +143,7 @@ class Program
                     Console.WriteLine("Exiting the program. Goodbye!");
                     break;
                 default:
-                    // and this is to handle invalid choices
+                    // and this is to handle invalid choices.
                     Console.WriteLine("Invalid choice. Please try again.");
                     break;
             }
